@@ -1,0 +1,9 @@
+train: Dataset/train
+val: Dataset/test
+nc: 5
+names: ['bus',
+        'car',
+        'motorbike',
+        'cat',
+        'person',
+]
